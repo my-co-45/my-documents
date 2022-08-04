@@ -1,4 +1,4 @@
-NFS 
+EFS (Elastic file system)
 step1 : launch instance server-01 and clinet-02 
 with security group of nfs and new key pair
 
